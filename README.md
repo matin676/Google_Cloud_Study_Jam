@@ -1,4 +1,4 @@
-# Google_Cloud_Study_Jam
+# Google_Cloud_Study_Jam 2023
 
 ### 🚨 Deadline for [Gen AI](https://www.cloudskillsboost.google/games/4422) is 30 September, 2023 ‼️ 🚨
 
